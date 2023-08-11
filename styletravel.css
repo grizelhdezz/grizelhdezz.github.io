@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+body{
+    background: linear-gradient(#fdf42d,#22c1c3);
+    font-family:DM Sans;
+}
+
+h1{
+    font-size:70px;
+}
+
+header{
+    display:block;
+}
+
+.encabezado{
+    color:#164975;
+}
+
+.logo{
+    text-align:right;
+    margin-top:0px;
+    margin-bottom:0px;   
+}
+
+.tabla{
+margin-top:26px;
+}
+
+.extra{
+    margin-top:40px;
+    display:block;
+}
+
+footer{
+margin-top:30px;
+}
